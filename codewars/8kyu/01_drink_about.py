@@ -1,7 +1,7 @@
 """
 Kata: Drink about
 Level: 8 kyu
-Link: https://www.codewars.com/kata/COLLE-TON-LIEN-ICI
+Link: https://www.codewars.com/kata/56170e844da7c6f647000063
 Date: 2026-11-02
 What I learned: if/elif/else conditions are checked in order,
 so each elif only needs the upper limit of its age range.
