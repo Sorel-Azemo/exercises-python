@@ -1,4 +1,4 @@
-# exercises-python
+# Exercises-python
 
 My daily Python practice to build solid fundamentals for data engineering.
 Every solution is written by me, with a short note on what I learned.
