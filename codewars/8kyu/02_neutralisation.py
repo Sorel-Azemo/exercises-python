@@ -1,9 +1,4 @@
 """
-Kata: Neutralisation
-Level: 7 kyu
-Link: https://www.codewars.com/kata/COLLE-TON-LIEN-ICI
-Date: 2026-11-03
-
 Problem:
     Two strings of the same length contain only "+" and "-".
     Compare them character by character: identical signs stay the same,
@@ -15,8 +10,9 @@ Example:
 What I learned:
     In a for loop, range() moves the index forward by itself,
     so there is no need to increment it manually.
-"""
 
+Source: https://www.codewars.com/kata/COLLE-TON-LIEN-ICI
+"""
 
 def neutralise(s1, s2):
     result = ""
