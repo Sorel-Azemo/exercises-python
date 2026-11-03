@@ -11,7 +11,7 @@ What I learned:
     In a for loop, range() moves the index forward by itself,
     so there is no need to increment it manually.
 
-Source: https://www.codewars.com/kata/COLLE-TON-LIEN-ICI
+Source: https://www.codewars.com/kata/65128732b5aff40032a3d8f0/python
 """
 
 def neutralise(s1, s2):
