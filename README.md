@@ -12,6 +12,6 @@ On Codewars, difficulty goes from **8 kyu (easiest)** to **1 kyu (hardest)**.
 ## File format
 
 Each file is named `NN_kata_name.py` and starts with:
-- the kata name, level and link
-- the date solved
+- a short problem statement and an example
 - what I learned
+- a link to the original kata
